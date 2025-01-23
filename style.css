@@ -1,0 +1,41 @@
+.card {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px auto;
+    width: 200px;
+    height: fit-content;
+    border: 0px solid #ccc;
+    border-radius: 10px;
+    border-bottom: 30px solid #1b1a1a;
+    padding: 00px 20px 20px 20px;
+    justify-content: space-around;
+    background-color: #8ecae6;
+    color: #030303;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    line-height: 0.5;
+    
+}
+
+img {
+    display: block;
+    width: 150px;
+    height: 200px;
+    
+    margin: 10px auto;
+    box-shadow: #1b1a1a;    
+}
+
+.insta {
+    color: rgb(61, 185, 175);
+    text-indent: 10px;
+    text-shadow: #1b1a1a;
+    text-decoration: underline;
+}
+
+
+.italic {
+    font-style: italic;
+}
+
+.text-section {
+    text-align: center;
+}
